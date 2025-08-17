@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedJar Include="Jars\org.libsdl.app-release.aar" />
+    <EmbeddedJar Include="Jars/org.libsdl.app-release.aar" />
   </ItemGroup>
 
   <ItemGroup>
